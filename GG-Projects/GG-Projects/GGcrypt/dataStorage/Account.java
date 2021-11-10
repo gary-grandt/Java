@@ -11,6 +11,7 @@ public class Account {
 	
 	// Variables 
 	private Email email;
+	private String accountName;
 	private String username;
 	private String password;
 }
