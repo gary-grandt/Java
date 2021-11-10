@@ -1,4 +1,4 @@
-package GGcrypt;
+package GGcrypt.old;
 
 import java.math.BigInteger;
 
